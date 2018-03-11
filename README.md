@@ -20,4 +20,4 @@ index.html
 ```
 ### Demo
 
-Live project of the game is available at : [jsFIddle] (https://jsfiddle.net/DanielCaseri/oenf5cxh/9/)
+Live project of the game is available at : [jsFIddle](https://jsfiddle.net/DanielCaseri/oenf5cxh)
